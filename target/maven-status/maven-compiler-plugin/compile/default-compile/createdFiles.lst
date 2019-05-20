@@ -1,2 +1,9 @@
 com/goinghugh/echo/EchoController.class
-com/goinghugh/echo/HttpEchoApplication.class
+com/goinghugh/interceptor/SessionInterceptor.class
+com/goinghugh/constant/Constants.class
+com/goinghugh/echo/AsyncController.class
+com/goinghugh/interceptor/WebInterceptorConfig.class
+com/goinghugh/interceptor/TraceInterceptor.class
+com/goinghugh/utils/TraceLogUtils.class
+com/goinghugh/HttpEchoApplication.class
+com/goinghugh/echo/AsyncController$1.class

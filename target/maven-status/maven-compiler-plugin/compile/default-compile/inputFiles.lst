@@ -1,2 +1,8 @@
-/Users/hugh/code/startdt/http-echo/src/main/java/com/goinghugh/echo/HttpEchoApplication.java
+/Users/hugh/code/startdt/http-echo/src/main/java/com/goinghugh/echo/AsyncController.java
+/Users/hugh/code/startdt/http-echo/src/main/java/com/goinghugh/utils/TraceLogUtils.java
+/Users/hugh/code/startdt/http-echo/src/main/java/com/goinghugh/constant/Constants.java
+/Users/hugh/code/startdt/http-echo/src/main/java/com/goinghugh/interceptor/SessionInterceptor.java
+/Users/hugh/code/startdt/http-echo/src/main/java/com/goinghugh/HttpEchoApplication.java
+/Users/hugh/code/startdt/http-echo/src/main/java/com/goinghugh/interceptor/TraceInterceptor.java
+/Users/hugh/code/startdt/http-echo/src/main/java/com/goinghugh/interceptor/WebInterceptorConfig.java
 /Users/hugh/code/startdt/http-echo/src/main/java/com/goinghugh/echo/EchoController.java
